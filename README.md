@@ -83,14 +83,14 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="https://www.linkedin.com/in/tushar1106/" target="_blank">
+<a href="https://www.linkedin.com/in/udayyyygill/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 <br><sub><b>Professional Network</b></sub>
 </a>
 </td>
 
 <td align="center" width="25%">
-<a href="mailto:k.tushar1106@gmail.com">
+<a href="mailto:uday762004@yahoo.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 <br><sub><b>Get In Touch</b></sub>
 </a>
@@ -109,17 +109,17 @@
 <table>
 <tr>
 <td>
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=TusharKaushik1106&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=UdayGill76&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats"/>
 </td>
 <td>
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharKaushik1106&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Most Used Languages"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayGill76&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Most Used Languages"/>
 </td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TusharKaushik1106&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=UdayGill76&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -132,7 +132,7 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=TusharKaushik1106&color=F85D7F&style=for-the-badge&label=Profile+Views&base=1200" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=UdayGill76&color=F85D7F&style=for-the-badge&label=Profile+Views&base=1200" alt="Profile Views" />
 
 <br/>
 
